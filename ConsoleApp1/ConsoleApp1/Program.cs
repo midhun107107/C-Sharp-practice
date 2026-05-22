@@ -14,7 +14,7 @@ namespace avg
 {
     class pgrgram
     {
-
+         
         static void Main(string[] arg)
         {
             float a, b, c;
